@@ -1,1 +1,5 @@
-dsafadsfasfadsfdasfasfa
+#Js Dökümanları
+
+## Talimatlar
+- Git Öğrenilecek
+
